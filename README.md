@@ -7,7 +7,7 @@
 
 <p><strong>Prelim Period: </strong></p>
 
-- Hands-on Activity 1 [Creating Virtual Machines](https://github.com/qkgallave/Act_1.git)
+- Hands-on Activity 1 [Creating Virtual Machines](https://github.com/qajgonzales1/HOA1.git)
 
 - Hands-on Activity 2 [SSH Key-Based Authentication and GIT Setup](https://github.com/qkgallave/Act_2.git)
 
