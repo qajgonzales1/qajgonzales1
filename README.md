@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Final project website using  HTML</strong></h1>
-<h1 align="center">CPE31S4 CPE232</h1>
-<h2 align="center">Allen Jerome B. Gonzales</h2>
+<h1 align="left">CPE31S4 CPE232</h1>
+<h1 align="right">Allen Jerome B. Gonzales</h2>
 
 <h1 align="center">Final Project (CPE 232)</h1>
 <h3 align="center">Final Project submission by Kenneth Gabriel A. Llave CPE31S4</h3>
